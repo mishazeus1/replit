@@ -1,4 +1,4 @@
-# Дизайн-комплект: Триада, Resto AI, Owner OS, AURA OS
+# Дизайн-комплект: Триада, Resto AI, Owner OS, AURA OS, Loop Card AI
 
 Продукты одной экосистемы. В каждой папке:
 - `DESIGN.md` — цвета, шрифт, правила, механика и список экранов;
@@ -7,6 +7,6 @@
 - `photos/` — фото, которые нужно использовать;
 - `fonts/` — шрифт продукта.
 
-Папки: [`triada/`](triada/DESIGN.md), [`resto/`](resto/DESIGN.md), [`owner/`](owner/DESIGN.md), [`aura/`](aura/DESIGN.md).
+Папки: [`triada/`](triada/DESIGN.md), [`resto/`](resto/DESIGN.md), [`owner/`](owner/DESIGN.md), [`aura/`](aura/DESIGN.md), [`loop/`](loop/DESIGN.md).
 
 Фото — Unsplash (бесплатная лицензия Unsplash). Названия бизнесов и имена в макетах условные, цифры демонстрационные.
