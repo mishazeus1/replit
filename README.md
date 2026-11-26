@@ -7,6 +7,6 @@
 - `photos/` — фото, которые нужно использовать;
 - `fonts/` — шрифт продукта.
 
-Папки: [`triada/`](triada/DESIGN.md), [`resto/`](resto/DESIGN.md), [`owner/`](owner/DESIGN.md), [`aura/`](aura/DESIGN.md), [`loop/`](loop/DESIGN.md).
+Папки: [`triada/`](triada/DESIGN.md), [`resto/`](resto/DESIGN.md), [`owner/`](owner/DESIGN.md), [`aura/`](aura/DESIGN.md) (обновлённый дизайн AURA OS), [`aura-replit/`](aura-replit/INDEX.md) (снимки прежнего интерфейса), [`loop/`](loop/DESIGN.md).
 
 Фото — Unsplash (бесплатная лицензия Unsplash). Названия бизнесов и имена в макетах условные, цифры демонстрационные.
